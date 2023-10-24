@@ -1,0 +1,10 @@
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project7\SinemaBufeSatisUygulamasi\SinemaBufeSatisUygulamasi\bin\Debug\SinemaBufeSatisUygulamasi.exe.config
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project7\SinemaBufeSatisUygulamasi\SinemaBufeSatisUygulamasi\bin\Debug\SinemaBufeSatisUygulamasi.exe
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project7\SinemaBufeSatisUygulamasi\SinemaBufeSatisUygulamasi\bin\Debug\SinemaBufeSatisUygulamasi.pdb
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project7\SinemaBufeSatisUygulamasi\SinemaBufeSatisUygulamasi\obj\Debug\SinemaBufeSatisUygulamasi.csproj.AssemblyReference.cache
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project7\SinemaBufeSatisUygulamasi\SinemaBufeSatisUygulamasi\obj\Debug\SinemaBufeSatisUygulamasi.Properties.Resources.resources
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project7\SinemaBufeSatisUygulamasi\SinemaBufeSatisUygulamasi\obj\Debug\SinemaBufeSatisUygulamasi.csproj.GenerateResource.cache
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project7\SinemaBufeSatisUygulamasi\SinemaBufeSatisUygulamasi\obj\Debug\SinemaBufeSatisUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project7\SinemaBufeSatisUygulamasi\SinemaBufeSatisUygulamasi\obj\Debug\SinemaBufeSatisUygulamasi.exe
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project7\SinemaBufeSatisUygulamasi\SinemaBufeSatisUygulamasi\obj\Debug\SinemaBufeSatisUygulamasi.pdb
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project7\SinemaBufeSatisUygulamasi\SinemaBufeSatisUygulamasi\obj\Debug\SinemaBufeSatisUygulamasi.Form1.resources
